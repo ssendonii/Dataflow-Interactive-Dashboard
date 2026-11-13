@@ -1,0 +1,6 @@
+{
+  "name": "TrouserCraft Sales Analytics",
+  "description": "Interactive retail sales analytics dashboard with multi-view charting, dynamic pivot builder, basket analysis, and order ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
